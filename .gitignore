@@ -1,0 +1,6 @@
+client-cert.pem
+client-key.pem
+client.csr
+node_modules
+npm-debug.log
+
